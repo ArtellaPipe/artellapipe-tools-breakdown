@@ -1,0 +1,2 @@
+include artellapipe/tools/breakdown/__logging__.ini
+include artellapipe/tools/breakdown/resources/images/*.*
